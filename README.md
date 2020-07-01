@@ -13,11 +13,11 @@
 This repo is made to be a reference for all what I learn during my career.
 
 ## Table of Content
-* [WordPress](wordpress)
+* [WordPress](#wordpress)
 * [React](#react)
 * [NodeJS and MongoDB](#nodejs-and-mongodb)
-* [AWS](aws)
-* [Trello](trello)
+* [AWS](#aws)
+* [Trello](#trello)
 * [Virtual Reality](#vr)
 
 
