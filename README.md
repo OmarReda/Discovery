@@ -111,7 +111,7 @@ This repo is made to be a reference for all what I learn during my career.
   <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_297/v1593676103/unnamed-11_xuvbqw.jpg">
 </p>
 
-## Game Development (#TODO)
+## Game Development
 * I learned how to build desktop & android games using unity and how to use unity studio and deal with the assets and its customization.
 * I implemented 2 games one for android and another FPS one for desktop.
 * [Getting started with Unity](https://unity.com/)
