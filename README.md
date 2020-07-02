@@ -58,7 +58,6 @@ This repo is made to be a reference for all what I learn during my career.
 * During 2019 I covered several IBM services as IBM Cloud, Watson Services(Studio, Discovery, CV, NLP, NLU...etc), Skills Academy Courses(Student & Instructor).
 * I used Digital-Nation Africa as my reference to get the study materials.
 * [Badges](https://www.youracclaim.com/users/omar-reda291/badges) - [IBM Digital Nation Africa](https://developer.ibm.com/digitalnation/africa/) - [IBM Skills Academy](https://www-03.ibm.com/services/weblectures/meap/)
-
 <img src="https://res.cloudinary.com/djvh0aebv/image/upload/v1593673813/Capture_sph2y8.png">
 
 
@@ -66,6 +65,12 @@ This repo is made to be a reference for all what I learn during my career.
 * I learned the differences between VR, MR & XR, and the foundation of every one of them.
 * I completed a course that helped me so much to understand all the content mentioned above, it was provided by Coursera & Unity, and I added the course link below.
 * [Course Link](https://www.coursera.org/programs/alexandria-university-on-coursera-sm-odvas/browse?productId=Lpbv_HTgEeilthKOJg0q_A&productType=s12n&query=VR&showMiniModal=true)
+
+
+## Android Development
+* I tried to take an overview about android development and learn to use android studio and Java XML
+* I learned the content of android and built basic apps through Android Development Track provided by Udacity & One Million Arab Coders Course.
+* [One Million Arab Coders](https://www.arabcoders.ae/)
 
 
 ### License
