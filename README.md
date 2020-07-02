@@ -18,60 +18,88 @@ This repo is made to be a reference for all what I learn during my career.
 * [React](#react)
 * [NodeJS and MongoDB](#nodejs-and-mongodb)
 * [AWS](#aws)
+* [Linux](#linux)
 * [Trello](#trello)
 * [IBM Services](#ibm-services)
 * [Virtual Reality](#vr)
 * [Android Development](#android-development)
+* Game Development (#TODO)
 
 
 ## WordPress
 * I started to take a quick look over WordPress and how it works and read more about WordPress hierarchy, and also implemented some pages using it.
 * Below you will find a video that helped me so much to understand the main aspects of WordPress.
 * [Video Link](https://www.youtube.com/watch?v=MsRhxl_zk5A)
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_200/v1593677468/wordpress_hx7oah.png">
+</p>
 
 
 ## React
 * I Coverd the content of React.js framework including JavaScript ES6, Reactstrap, React components, React Router, Controlled Forms, Flux architecture and Redux and REST API on the server side, React animation.
 * I completed a course that helped me so much to understand all the content mentioned above, it was provided by Coursera & The Hong Kong University of Science and Technology, and I added the course link below.
 * [Course Link](https://www.coursera.org/programs/alexandria-university-on-coursera-sm-odvas?collectionId=&productId=yG1EARC8EeiWoAqBnMlvMg&productType=course&showMiniModal=true)
-
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_310/v1593677616/react_vid0os.png">
+</p>
 
 ## NodeJS and MongoDB
 * I Coverd the content of Node.js and MongoDb including npm, node-modules, express.js, EJS, JSON, APIs, mongoose, authentication, heroku deployment.
 * I completed a course that helped me so much to understand all the content mentioned above, it was provided by Udemy & Colt Steel, and I added the course link below.
 * [Course Link](https://www.udemy.com/course/the-web-developer-bootcamp/)
-
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_400/v1593676918/2a3eb4a0-182a-4512-8319-87951b124a7d_wnotea.png">
+</p>
 
 ## AWS
 * I gained a more vivid understanding of core AWS services, key AWS security concepts, strategies for migrating from on-premises to AWS, and basics of building serverless applications with AWS. Additionally, had the opportunity to practice what you have learned by completing labs and exercises developed by AWS technical instructors.
 * I completed a course that helped me so much to understand all the content mentioned above, it was provided by Coursera & AWS, and I added the course link below.
 * [Course Link](https://www.coursera.org/specializations/aws-fundamentals)
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_150/v1593675839/1200px-Amazon_Web_Services_Logo.svg_z7qets.png">
+</p>
 
+## Linux
+* I got introduced to What Linux is, Linux history, How to separate the kernel from the entire operating system, Making contributions to the kernel, Graphical system, and how it works, Working at the command line, Filesystem layout, partitions and Monitoring utilities.
+* I completed a course that helped me so much to understand all the content mentioned above, it was provided by Coursera & The Linux Foundation, and I added the course link below.
+* [Course](https://www.coursera.org/programs/alexandria-university-on-coursera-sm-odvas?collectionId=&productId=yEurgmOREei16BIJfVb6WA&productType=course&showMiniModal=true)
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593675569/1200px-Linux_Foundation_logo_2013.svg_yg8eoh.png">
+</p>
 
 ## Trello
 * I learned more about trello and how to use it and the Kanban Style.
 * Kanban is a workflow management method designed to help you visualize your work, maximize efficiency and be agile. From Japanese, kanban is literally translated as billboard or signboard. Originating from manufacturing, it later became a territory claimed by agile software development teams.
 * [Trello](https://trello.com/) - [Getting Started with Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban#:~:text=Kanban%20is%20a%20workflow%20management,by%20agile%20software%20development%20teams.)
-
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/v1593675167/1_iaw3bm.png">
+</p>
 
 ## IBM Services
 * During 2019 I covered several IBM services as IBM Cloud, Watson Services(Studio, Discovery, CV, NLP, NLU...etc), Skills Academy Courses(Student & Instructor).
 * I used Digital-Nation Africa as my reference to get the study materials.
 * [Badges](https://www.youracclaim.com/users/omar-reda291/badges) - [IBM Digital Nation Africa](https://developer.ibm.com/digitalnation/africa/) - [IBM Skills Academy](https://www-03.ibm.com/services/weblectures/meap/)
-<img src="https://res.cloudinary.com/djvh0aebv/image/upload/v1593673813/Capture_sph2y8.png">
-
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/v1593673813/Capture_sph2y8.png">
+</p>
 
 ## VR
-* I learned the differences between VR, MR & XR, and the foundation of every one of them.
+* I learned the differences between VR, MR & AR, and the foundation of every one of them.
 * I completed a course that helped me so much to understand all the content mentioned above, it was provided by Coursera & Unity, and I added the course link below.
 * [Course Link](https://www.coursera.org/programs/alexandria-university-on-coursera-sm-odvas/browse?productId=Lpbv_HTgEeilthKOJg0q_A&productType=s12n&query=VR&showMiniModal=true)
-
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_500/v1593677052/EYj9bJFWAAELjwK_fdbg9v.png">
+</p>
 
 ## Android Development
 * I tried to take an overview about android development and learn to use android studio and Java XML
 * I learned the content of android and built basic apps through Android Development Track provided by Udacity & One Million Arab Coders Course.
 * [One Million Arab Coders](https://www.arabcoders.ae/)
+<p align="center">
+  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_297/v1593676103/unnamed-11_xuvbqw.jpg">
+</p>
 
+## Game Development (#TODO)
 
 ### License
 > This project is licensed under GNU General Public License v3.0 - check <a href="https://github.com/OmarReda/Discovery/blob/master/LICENSE">LICENSE.md</a> for file details. ©Omar Reda
