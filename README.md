@@ -12,13 +12,16 @@
 # Discovery
 This repo is made to be a reference for all what I learn during my career.
 
+
 ## Table of Content
 * [WordPress](#wordpress)
 * [React](#react)
 * [NodeJS and MongoDB](#nodejs-and-mongodb)
 * [AWS](#aws)
 * [Trello](#trello)
+* [IBM Services](#ibm-services)
 * [Virtual Reality](#vr)
+* [Android Development](#android-development)
 
 
 ## WordPress
@@ -49,6 +52,14 @@ This repo is made to be a reference for all what I learn during my career.
 * I learned more about trello and how to use it and the Kanban Style.
 * Kanban is a workflow management method designed to help you visualize your work, maximize efficiency and be agile. From Japanese, kanban is literally translated as billboard or signboard. Originating from manufacturing, it later became a territory claimed by agile software development teams.
 * [Trello](https://trello.com/) - [Getting Started with Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban#:~:text=Kanban%20is%20a%20workflow%20management,by%20agile%20software%20development%20teams.)
+
+
+## IBM Services
+* During 2019 I covered several IBM services as IBM Cloud, Watson Services(Studio, Discovery, CV, NLP, NLU...etc), Skills Academy Courses(Student & Instructor).
+* I used Digital-Nation Africa as my reference to get the study materials.
+* [Badges](https://www.youracclaim.com/users/omar-reda291/badges) - [IBM Digital Nation Africa](https://developer.ibm.com/digitalnation/africa/) - [IBM Skills Academy](https://www-03.ibm.com/services/weblectures/meap/)
+
+<img src="https://res.cloudinary.com/djvh0aebv/image/upload/v1593673813/Capture_sph2y8.png">
 
 
 ## VR
