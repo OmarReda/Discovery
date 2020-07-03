@@ -29,9 +29,9 @@ This repo is made to be a reference for all what I learn during my career.
   * [Trello](#trello)
   * [Product Management](#product-management)
 
-<h2 id="technical-content" align="center">
+<h1 id="technical-content" align="center">
   Technical Content 👨🏻‍💻
-</h2>
+</h1>
 
   ## React
   * I covered the content of React.js framework including JavaScript ES6, Reactstrap, React components, React Router, Controlled Forms, Flux architecture, and Redux and REST API on the server-side, React animation.
@@ -118,9 +118,9 @@ This repo is made to be a reference for all what I learn during my career.
 
 -----
 
-<h2 id="non-technical-content" align="center">
+<h1 id="non-technical-content" align="center">
   Non Technical Content 📚
-</h2>
+</h1>
 
   ## Trello
   * I learned more about Trello and how to use it and the Kanban Style.
