@@ -28,6 +28,7 @@ This repo is made to be a reference for all what I learn during my career.
 * [Non Technical Content](#non-technical-content)
   * [Trello](#trello)
   * [Product Management](#product-management)
+  * [Design Thinking](#design-thinking)
 
 <h1 id="technical-content" align="center">
   Technical Content 👨🏻‍💻
@@ -137,6 +138,15 @@ This repo is made to be a reference for all what I learn during my career.
   * [Knowledge Officer](https://knowledgeofficer.com/) - [Advanced Developer Training 2020](https://knowledgeofficer.com/devc-training)
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593782355/0_fspxhc.jpg">
+  </p>
+  
+  ## Design Thinking
+  * I learned more about Design Thinking including empathy map and personas and how to apply design thinking inside work environment.
+  * I completed the Design Thinking courses (Practitioner & Team Essentials for AI versions) on IBM Digital Nation Africa.
+  * [IBM Digital Nation Africa](https://developer.ibm.com/digitalnation/africa/) 
+  <p align="center">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593849700/Capture_yfv1e7.png">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593849700/2_hdltpj.png">
   </p>
 
 
