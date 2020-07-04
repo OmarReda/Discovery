@@ -81,7 +81,9 @@ This repo is made to be a reference for all what I learn during my career.
   * I used Digital-Nation Africa as my reference to get the study materials.
   * [Badges](https://www.youracclaim.com/users/omar-reda291/badges) - [IBM Digital Nation Africa](https://developer.ibm.com/digitalnation/africa/) - [IBM Skills Academy](https://www-03.ibm.com/services/weblectures/meap/)
   <p align="center">
-    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/v1593673813/Capture_sph2y8.png">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,h_130/v1593850494/3_iynht3.png">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593850494/Capture_bckaiz.png">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593850494/4_ydqmnn.png">
   </p>
 
 
