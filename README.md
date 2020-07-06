@@ -44,7 +44,7 @@ This repo is made to be a reference for all what I learn during my career.
 
   ## NodeJS and MongoDB
   * I covered the content of Node.js and MongoDB including npm, node-modules, express.js, EJS, JSON, APIs, mongoose, authentication, Heroku deployment.
-  * I completed a course that helped me so much to understand all the content mentioned above, it was provided by Udemy & Colt Steel, and I added the course link below.
+  * I completed a course that helped me so much to understand all the content mentioned above, it was provided by Udemy & Colt Steele, and I added the course link below.
   * [Course Link](https://www.udemy.com/course/the-web-developer-bootcamp/)
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_400/v1593676918/2a3eb4a0-182a-4512-8319-87951b124a7d_wnotea.png">
@@ -62,7 +62,7 @@ This repo is made to be a reference for all what I learn during my career.
   ## WordPress
   * I started to take a quick look over WordPress and how it works and read more about WordPress hierarchy, and also implemented some pages using it.
   * Below you will find a video that helped me so much to understand the main aspects of WordPress.
-  * [Video Link](https://www.youtube.com/watch?v=MsRhxl_zk5A)
+  * [Video Link](https://www.youtube.com/watch?v=MsRhxl_zk5A) - [Getting started with WordPress](https://wordpress.com/) - [WordPress optimization plugins](https://bloggingwizard.com/free-speed-enhancing-wordpress-plugins/)
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_200/v1593677468/wordpress_hx7oah.png">
   </p>
@@ -78,8 +78,8 @@ This repo is made to be a reference for all what I learn during my career.
 
   ## IBM Services
   * During 2019 I covered several IBM services as IBM Cloud, Watson Services(Studio, Discovery, CV, NLP, NLU...etc), Skills Academy Courses(Student & Instructor).
-  * I used Digital-Nation Africa as my reference to get the study materials.
-  * [Badges](https://www.youracclaim.com/users/omar-reda291/badges) - [IBM Digital Nation Africa](https://developer.ibm.com/digitalnation/africa/) - [IBM Skills Academy](https://www-03.ibm.com/services/weblectures/meap/)
+  * I used Digital-Nation Africa and IBM Your Learning as my reference to get the study materials.
+  * [Badges](https://www.youracclaim.com/users/omar-reda291/badges) - [IBM Digital Nation Africa](https://developer.ibm.com/digitalnation/africa/) - [IBM Skills Academy](https://www-03.ibm.com/services/weblectures/meap/) - [Your Learning](https://yourlearning.ibm.com/about/)
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,h_130/v1593850494/3_iynht3.png">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593850494/Capture_bckaiz.png">
@@ -104,7 +104,7 @@ This repo is made to be a reference for all what I learn during my career.
   </p>
 
   ## Android Development
-  * I tried to take an overview of android development and learn to use android studio and Java XML
+  * I tried to take an overview of android development and learn to use android studio and Java XML.
   * I learned the content of android and built basic apps through Android Development Track provided by Udacity & One Million Arab Coders Course.
   * [One Million Arab Coders](https://www.arabcoders.ae/)
   <p align="center">
@@ -112,8 +112,8 @@ This repo is made to be a reference for all what I learn during my career.
   </p>
 
   ## Game Development
-  * I learned how to build desktop & android games using unity and how to use unity studio and deal with the assets and its customization.
-  * I implemented 2 games one for android and another FPS one for desktop.
+  * I learned how to build desktop & android games using unity and how to use unity studio and deal with the assets and their customizations.
+  * I implemented already 2 games one level-based for android and one FPS for desktop.
   * [Getting started with Unity](https://unity.com/)
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_250/v1593685770/Unity_logo_logotype_Unity_3D_oiofyh.png">
