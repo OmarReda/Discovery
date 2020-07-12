@@ -29,6 +29,7 @@ This repo is made to be a reference for all what I learn during my career.
   * [Trello](#trello)
   * [Product Management](#product-management)
   * [Design Thinking](#design-thinking)
+  * [Wireframes](#Wireframes)
 
 <h1 id="technical-content" align="center">
   Technical Content 👨🏻‍💻
@@ -149,6 +150,15 @@ This repo is made to be a reference for all what I learn during my career.
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593849700/Capture_yfv1e7.png">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593849700/2_hdltpj.png">
+  </p>
+  
+  ## Wireframes
+  * I learned how to build a wireframe for mobile and web applications in order to simulate the UI.
+  * Wireframing is a way to design a website service at the structural level. A wireframe is commonly used to lay out content and functionality on a page which takes into account user needs and user journeys. Wireframes are used early in the development process to establish the basic structure of a page before visual design and content is added. - "ExperienceUX".
+  * [ExperienceUX](https://www.experienceux.co.uk/faqs/what-is-wireframing/) - [Personal Prototype Try](https://drive.google.com/file/d/1vdLtgtvL2LBqfQ3fOn5CeKXbZQi0ISyC/view?usp=sharing) - [Getting Started with Balsamiq](https://balsamiq.com/)
+  <p align="center">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1594549366/mobile-app-1600_kyazno.png">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_400/v1594549447/mobile-web_sv8obf.png">
   </p>
 
 
