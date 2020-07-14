@@ -19,6 +19,7 @@ This repo is made to be a reference for all what I learn during my career.
   * [NodeJS and MongoDB](#nodejs-and-mongodb)
   * [AWS](#aws)
   * [WordPress](#wordpress)
+  * [#TODO Sass](#sass)
   * [Linux](#linux)
   * [IBM Services](#ibm-services)
   * [Virtual Reality](#vr)
@@ -66,6 +67,14 @@ This repo is made to be a reference for all what I learn during my career.
   * [Video Link](https://www.youtube.com/watch?v=MsRhxl_zk5A) - [Getting started with WordPress](https://wordpress.com/) - [WordPress optimization plugins](https://bloggingwizard.com/free-speed-enhancing-wordpress-plugins/)
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_200/v1593677468/wordpress_hx7oah.png">
+  </p>
+  
+  ## Sass
+  * Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called "the indented syntax," uses a syntax similar to Haml.
+  * I learned how to use Sass from freecodecamp free Sass Course
+  * [Course Link](https://www.youtube.com/watch?v=_a5j7KoflTs) - [Getting started with Sass](https://sass-lang.com/)
+  <p align="center">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_200/v1594731180/1_Fk9lVjzWan0OgYa828emhw_niiq1h.png">
   </p>
 
 
