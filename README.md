@@ -10,7 +10,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/OmarReda/Discovery?style=social)
  
 # Discovery 🪐
-This repo is made to be a reference for all what I learn during my career.
+This repo is made to be a reference for all what I learn on myself during my career.
 
 
 ## Table of Content
