@@ -124,7 +124,7 @@ This repo is made to be a reference for all what I learn during my career.
   ## Game Development
   * I learned how to build desktop & android games using unity and how to use unity studio and deal with the assets and their customizations.
   * I implemented already 2 games one level-based for android and one FPS for desktop.
-  * [Getting started with Unity](https://unity.com/)
+  * [Getting started with Unity](https://unity.com/) - [Brackeys Tutorials](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_250/v1593685770/Unity_logo_logotype_Unity_3D_oiofyh.png">
   </p>
@@ -145,7 +145,7 @@ This repo is made to be a reference for all what I learn during my career.
   
   ## Product Management
   * I learned more about Product Management in training provided by Facebook Developer Circles & Knowledge Officer.
-  * The training covered the product management fundamentals and product discovery and also product delivery.
+  * The training covered the product management fundamentals, and product discovery including Design Thinking, Customer Development, JTBD Framework, UX and Unit Testing, also product delivery including Agile, Scrum and Kanban.
   * It was a real-life based training as all the assignments were solving or providing solutions for real-life problems on startup and corporate scale.
   * [Knowledge Officer](https://knowledgeofficer.com/) - [Advanced Developer Training 2020](https://knowledgeofficer.com/devc-training)
   <p align="center">
