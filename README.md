@@ -31,6 +31,8 @@ This repo is made to be a reference for all what I learn on myself during my car
   * [Product Management](#product-management)
   * [Design Thinking](#design-thinking)
   * [Wireframes](#Wireframes)
+* [Learning Channels](#learning-channels)
+
 
 <h1 id="technical-content" align="center">
   Technical Content 👨🏻‍💻
@@ -169,6 +171,14 @@ This repo is made to be a reference for all what I learn on myself during my car
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1594549366/mobile-app-1600_kyazno.png">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_400/v1594549447/mobile-web_sv8obf.png">
   </p>
+
+-----
+
+<h1 id="learning-channels" align="center">
+  Learning Channels 
+</h1>
+
+<a href="https://www.coursera.org/"><img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_180/v1596968348/Coursera_exzaox.png"></a> &nbsp; <a href="http://udemy.com/"><img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_180/v1596968363/udemy-2-logo-png-transparent_hg5zge.png"></a> &nbsp; <a href="https://frontendmasters.com/"><img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_250/v1596968347/68747470733a2f2f6274686f6c742e6769746875622e696f2f636f6d706c6574652d696e74726f2d746f2d72656163742d76342f7374617469632f46726f6e74656e644d6173746572734c6f676f2d66373263616530633733666563626236626565636561363036643866_ckk1ga.png"></a> &nbsp; <a href="https://www.freecodecamp.org/"><img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_200/v1596968358/fcc_secondary_large_vdbxwp.png"></a> &nbsp; <a href="https://www.udacity.com/"><img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_80/v1596968850/Udacity_logo_pjz7j1.png"></a> &nbsp; <a href="https://yourlearning.ibm.com/about/cloud/"><img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_100/v1596968347/download_a8xomf.png"></a> &nbsp; <a href="https://developer.ibm.com/digitalnation/africa/"><img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_200/v1596968353/tdmkRn21-7c8db860-2f81-11e9-bc9d-a71f7e36c6f8_l50iyd.png"></a>
 
 
 ### License
