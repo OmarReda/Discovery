@@ -17,6 +17,7 @@ This repo is made to be a reference for all what I learn on myself during my car
 * [Technical Content](#technical-content)
   * [React](#react)
   * [NodeJS and MongoDB](#nodejs-and-mongodb)
+  * [Laravel](#laravel) #TODO
   * [AWS](#aws)
   * [WordPress](#wordpress)
   * [#TODO Sass](#sass)
@@ -53,6 +54,12 @@ This repo is made to be a reference for all what I learn on myself during my car
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_400/v1593676918/2a3eb4a0-182a-4512-8319-87951b124a7d_wnotea.png">
   </p>
+  
+  ## Laravel
+  * #TODO
+  <p align="center">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_250/v1597052960/ekse8pc92ppzow30ablc_qz0kpb.png">
+  </p>
 
   ## AWS
   * I gained a more vivid understanding of core AWS services, key AWS security concepts, strategies for migrating from on-premises to AWS, and basics of building serverless applications with AWS. Additionally, had the opportunity to practice what you have learned by completing labs and exercises developed by AWS technical instructors.
@@ -85,7 +92,7 @@ This repo is made to be a reference for all what I learn on myself during my car
   * I completed a course that helped me so much to understand all the content mentioned above, it was provided by Coursera & The Linux Foundation, and I added the course link below.
   * [Course](https://www.coursera.org/programs/alexandria-university-on-coursera-sm-odvas?collectionId=&productId=yEurgmOREei16BIJfVb6WA&productType=course&showMiniModal=true)
   <p align="center">
-    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593675569/1200px-Linux_Foundation_logo_2013.svg_yg8eoh.png">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_250/v1593675569/1200px-Linux_Foundation_logo_2013.svg_yg8eoh.png">
   </p>
 
   ## IBM Services
