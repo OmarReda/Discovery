@@ -2,17 +2,20 @@
 <p align="center">
   <img src="https://res.cloudinary.com/djvh0aebv/image/upload/v1592857311/Capture_zm6izm.png">
 </p>
-
-
-<div align="center">
-  
-[![GitHub license](https://img.shields.io/github/license/OmarReda/Techgram)](https://github.com/OmarReda/Techgram/blob/master/LICENSE)
-![GitHub contributors](https://img.shields.io/github/contributors/OmarReda/Discovery)
-![Folow](https://img.shields.io/github/followers/OmarReda?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/OmarReda/Discovery?style=social)
-![GitHub forks](https://img.shields.io/github/forks/OmarReda/Discovery?style=social)
  
- <div>
+<div align="center">  
+  
+  [![GitHub contributors](https://img.shields.io/github/contributors/OmarReda/Discovery)](https://github.com/OmarReda/Discovery/contributors)
+  [![GitHub issues](https://img.shields.io/github/issues/OmarReda/Discovery)](https://github.com/OmarReda/Discovery/issues)
+  [![GitHub forks](https://img.shields.io/github/forks/OmarReda/Discovery)](https://github.com/OmarReda/Discovery/network)
+  [![GitHub stars](https://img.shields.io/github/stars/OmarReda/Discovery)](https://github.com/OmarReda/Discovery/stargazers)
+  [![GitHub license](https://img.shields.io/github/license/OmarReda/Discovery)](https://github.com/OmarReda/Discovery/blob/master/LICENSE)
+  ![Folow](https://img.shields.io/github/followers/OmarReda?label=Follow&style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/OmarReda/Discovery?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/OmarReda/Discovery?style=social)
+  
+</div>
+
   
 # Discovery 🪐
 This repo is made to be a reference for all what I learn on myself during my career.
@@ -36,7 +39,7 @@ This repo is made to be a reference for all what I learn on myself during my car
   * [Trello](#trello)
   * [Product Management](#product-management)
   * [Design Thinking](#design-thinking)
-  * [Wireframes](#Wireframes)
+  * [Wireframes](#wireframes)
 * [Learning Channels](#learning-channels)
 
 
