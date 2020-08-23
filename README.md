@@ -178,7 +178,7 @@ This repo is made to be a reference for all what I learn on myself during my car
   * I learned more about Product Management in training provided by Facebook Developer Circles & Knowledge Officer.
   * The training covered the product management fundamentals, and product discovery including Design Thinking, Customer Development, JTBD Framework, UX and Unit Testing, also product delivery including Agile, Scrum and Kanban.
   * It was a real-life based training as all the assignments were solving or providing solutions for real-life problems on startup and corporate scale.
-  * [Knowledge Officer](https://knowledgeofficer.com/) - [Advanced Developer Training 2020](https://knowledgeofficer.com/devc-training)
+  * [Knowledge Officer](https://knowledgeofficer.com/) - [Advanced Developer Training 2020](https://knowledgeofficer.com/devc-training) - [Some of My Work](https://drive.google.com/drive/folders/1GdreVZDCNkcepT6YOVgT2f3El2Efs9xK?usp=sharing)
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1593782355/0_fspxhc.jpg">
   </p>
