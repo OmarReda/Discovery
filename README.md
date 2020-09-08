@@ -23,6 +23,8 @@ This repo is made to be a reference for all what I learn on myself during my car
 
 ## Table of Content
 * [Technical Content](#technical-content)
+  * [IBM API Connect](#ibm-api-connect)
+  * [IBM Integration Bus](#ibm-integration-bus)
   * [React](#react)
   * [NodeJS and MongoDB](#nodejs-and-mongodb)
   * [Typescript](#typescript) #TODO
@@ -47,6 +49,20 @@ This repo is made to be a reference for all what I learn on myself during my car
 <h1 id="technical-content" align="center">
   Technical Content 👨🏻‍💻
 </h1>
+
+## IBM API Connect
+  * learned how to use IBM API Connect create, securely expose, manage and monetize APIs across clouds so that you and your customers can power digital applications and spur innovation.
+  * IBM API Connect is also available with other capabilities as an IBM Cloud Pak® solution, which can help you achieve your application modernization goals as part of your journey to cloud.
+  <p align="center">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_200/v1599569778/apiconnect_logo_bpo850.png">
+  </p>
+
+ ## IBM Integration Bus
+  * learned how to use IBM Integration Bus to develop, deploy, and support platform-independent message flow applications.
+  * IBM Integration Bus family (IBM WebSphere Message Broker) provides options for a universal integration foundation based on enterprise service bus (ESB) technology. IBM Integration Bus provides a universal integration capability that addresses a wide range of integration scenarios. These scenarios include web services such as SOAP and REST, messaging, database, file, ERP systems, mobile, physical devices, email, custom systems and more.
+  <p align="center">
+    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_250/v1599569778/1_-Ki28QAlA3jLP5mK4J5LRA_pmasdu.png">
+  </p>
 
   ## React
   * I covered the content of React.js framework including JavaScript ES6, Reactstrap, React components, React Router, Controlled Forms, Flux architecture, and Redux and REST API on the server-side, React animation.
