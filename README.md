@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djvh0aebv/image/upload/v1592857311/Capture_zm6izm.png">
+  <img src="https://github.com/OmarReda/Discovery/blob/master/Discovery1.PNG"> <img width="250px" src="https://github.com/OmarReda/Discovery/blob/master/discovery.gif">
 </p>
  
 <div align="center">  
