@@ -212,6 +212,16 @@ This repo is made to be a reference for all what I learn on myself during my car
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_300/v1594549366/mobile-app-1600_kyazno.png">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_400/v1594549447/mobile-web_sv8obf.png">
   </p>
+  
+  
+-----
+
+<h1 id="important-links" align="center">
+  Important Links 🔗
+</h1>
+
+
+ ## TODO
 
 -----
 
