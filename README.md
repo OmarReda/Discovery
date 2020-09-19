@@ -43,7 +43,7 @@ This repo is made to be a reference for all what I learn on myself during my car
   * [Product Management](#product-management)
   * [Design Thinking](#design-thinking)
   * [Wireframes](#wireframes)
-* [Important Links](#importantn-links)
+* [Important Links](#important-links)
   * [TODO](#TODO)
   * [TODO](#TODO)
   * [TODO](#TODO)
