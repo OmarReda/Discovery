@@ -45,7 +45,7 @@ This repo is made to be a reference for all what I learn on myself during my car
   * [Wireframes](#wireframes)
 * [Important Links](#important-links)
   * [Developer Roadmaps](#developer-roadmaps)
-  * [TODO](#TODO)
+  * [FAANG Interview Preparation](#faang-interview-preparation)
   * [TODO](#TODO)
 * [Learning Channels](#learning-channels)
 
@@ -222,6 +222,7 @@ This repo is made to be a reference for all what I learn on myself during my car
 
 
  * ### [Developer Roadmaps](https://roadmap.sh/)
+ * ### [FAANG Interview Preparation](https://github.com/neerazz/FAANG)
 
 -----
 
