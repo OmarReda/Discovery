@@ -210,10 +210,10 @@ This repo is made to be a reference for all what I learn on myself during my car
 </h1>
 
 
- * ### [Developer Roadmaps](https://roadmap.sh/)
- * ### [FAANG Interview Preparation](https://github.com/neerazz/FAANG)
- * ### [Developer Portfolio](https://github.com/saadpasta/developerFolio)
- * ### [News For Busy Developers](https://api.daily.dev/get?r=IGs0QGlXb)
+ * #### [Developer Roadmaps](https://roadmap.sh/)
+ * #### [FAANG Interview Preparation](https://github.com/neerazz/FAANG)
+ * #### [Developer Portfolio](https://github.com/saadpasta/developerFolio)
+ * #### [News For Busy Developers](https://api.daily.dev/get?r=IGs0QGlXb)
 -----
 
 <h1 id="learning-channels" align="center">
