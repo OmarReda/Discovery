@@ -83,18 +83,6 @@ This repo is made to be a reference for all what I learn on myself during my car
   <p align="center">
     <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_400/v1593676918/2a3eb4a0-182a-4512-8319-87951b124a7d_wnotea.png">
   </p>
-  
-  ## Typescript
-  * #TODO
-  <p align="center">
-    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_250/v1597842591/typescript_jd7o2x.png">
-  </p>
-  
-  ## GraphQL
-  * #TODO
-  <p align="center">
-    <img src="https://res.cloudinary.com/djvh0aebv/image/upload/c_scale,w_250/v1597842591/1_ZvmbMEmtGR15Xj-eb3osXA_mqodzx.png">
-  </p>
 
   ## AWS
   * I gained a more vivid understanding of core AWS services, key AWS security concepts, strategies for migrating from on-premises to AWS, and basics of building serverless applications with AWS. Additionally, had the opportunity to practice what you have learned by completing labs and exercises developed by AWS technical instructors.
