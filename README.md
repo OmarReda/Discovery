@@ -48,6 +48,7 @@ This repo is made to be a reference for all what I learn on myself during my car
   * [FAANG Interview Preparation](#faang-interview-preparation)
   * [Developer Portfolio](#developer-portfolio)
   * [News For Busy Developers](#news-for-busy-developers)
+* [Podcasts](#podcasts)
 * [Learning Channels](#learning-channels)
 
 
@@ -214,6 +215,17 @@ This repo is made to be a reference for all what I learn on myself during my car
  * #### [FAANG Interview Preparation](https://github.com/neerazz/FAANG)
  * #### [Developer Portfolio](https://github.com/saadpasta/developerFolio)
  * #### [News For Busy Developers](https://api.daily.dev/get?r=IGs0QGlXb)
+ 
+-----
+
+<h1 id="podcasts" align="center">
+  Podcasts Channels 🎙️
+</h1>
+
+
+ * #### [Mohamed Fox Podcasts](https://www.mixcloud.com/mohammed-fox)
+ * #### [Null++](https://nullplus.plus/)
+ 
 -----
 
 <h1 id="learning-channels" align="center">
